@@ -79,6 +79,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'pink',
+    flexDirection:'row'
   },
   inputBox: {
     marginTop: 50,
